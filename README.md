@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Timothy Kinyi
+# Hi, I’m Timothy Kinyi
 
 Full Stack Developer focused on building scalable web applications, backend systems, and AI powered automation tools.
 
@@ -10,7 +10,7 @@ Currently, I contribute to the development of production systems at Bazelink, an
 
 ---
 
-# 🧠 Engineering & System Design
+# Engineering & System Design
 
 * Scalable application architecture
 * Backend systems and API development
@@ -25,7 +25,7 @@ Currently, I contribute to the development of production systems at Bazelink, an
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -105,9 +105,9 @@ Currently, I contribute to the development of production systems at Bazelink, an
 
 ---
 
-# 🚀 Projects
+# Projects
 
-## 🛒 Bazelink
+## Bazelink
 
 Production ecommerce platform connecting buyers, sellers, delivery agents, and businesses within one ecosystem.
 
@@ -124,7 +124,7 @@ Platform supports over 2000 active users.
 
 ---
 
-## 🤖 KAI BOT
+## KAI BOT
 
 AI powered business automation system designed to help businesses automate sales, customer interaction, marketing workflows, and content generation.
 
@@ -140,7 +140,7 @@ Built using Gemini AI integrations and custom backend workflows.
 
 ---
 
-## 🚚 Shared Logistics System
+## Shared Logistics System
 
 Logistics coordination platform focused on reducing delivery costs through grouped deliveries and optimized rider assignment.
 
@@ -153,7 +153,7 @@ Main focus areas:
 
 ---
 
-## ⚙️ API Gateway Platform
+## API Gateway Platform
 
 Backend infrastructure system used to manage multiple backend services and optimize server usage across applications.
 
@@ -167,7 +167,7 @@ Features include:
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 * Certified Ethical Hacker (CEH)
 * AWS Certified Cloud Practitioner
@@ -177,14 +177,14 @@ Features include:
 
 ---
 
-# 🎓 Education
+# Education
 
 Bachelor of Science in Information Technology
 The Cooperative University of Kenya
 
-# 📫 Contact
+# Contact
 
-📧 [kinyi9461@gmail.com](mailto:kinyi9461@gmail.com)
-📍 Nairobi, Kenya
-🔗 Portfolio: [https://timothykinyi.web.app](https://timothykinyi.web.app)
-💻 GitHub: [https://github.com/timothykinyi](https://github.com/timothykinyi)
+[kinyi9461@gmail.com](mailto:kinyi9461@gmail.com)
+Nairobi, Kenya
+Portfolio: [https://timothykinyi.web.app](https://timothykinyi.web.app)
+GitHub: [https://github.com/timothykinyi](https://github.com/timothykinyi)
