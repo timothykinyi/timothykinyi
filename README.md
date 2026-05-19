@@ -1,156 +1,190 @@
-# 👋 Hey, I’m Timothy (Kinyi)
+# 👋 Hi, I’m Timothy Kinyi
 
-Full-Stack Developer | Technical Founder | Cloud & Security Enthusiast  
+Full Stack Developer focused on building scalable web applications, backend systems, and AI powered automation tools.
 
-I am the Co-Founder & CEO of Bazelink, where I led development across both frontend and backend systems — architecting and building scalable, production-ready platforms from the ground up.
+I work across both frontend and backend development with stronger focus on backend engineering, system architecture, APIs, automation workflows, and performance optimization. Over the years I have worked on production systems, business platforms, ecommerce solutions, AI integrations, logistics systems, and real-time applications.
 
-I specialize in designing complete digital ecosystems — from system architecture and API design to cloud deployment and performance optimization. With a strong foundation in networking, cybersecurity, and cloud computing, I build secure, scalable, and business-driven solutions.
+I enjoy building software that solves real business problems and improves how people interact with technology. My approach to development combines system thinking, clean architecture, performance optimization, and practical user experience.
+
+Currently, I contribute to the development of production systems at Bazelink, an ecommerce platform in Kenya serving real users through integrated commerce, payments, logistics, and delivery workflows.
 
 ---
 
-# 🧠 System Design & Engineering
+# 🧠 Engineering & System Design
 
-- Scalable system architecture design  
-- Backend service orchestration  
-- Microservices & API-driven systems  
-- Secure authentication & authorization flows  
-- Payment gateway architecture  
-- Performance optimization & monitoring  
-- End-to-end product development lifecycle  
+* Scalable application architecture
+* Backend systems and API development
+* Authentication and authorization systems
+* Payment integration workflows
+* AI powered automation systems
+* Database design and optimization
+* Performance optimization and caching
+* Full stack application development
+* Real time system workflows
+* System monitoring and continuous improvement
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🧰 Languages
+## Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-## ⚙️ Frameworks & Runtime
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-- React for modern web applications  
-- React Native for cross-platform mobile applications  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 ---
 
-## 🗄️ Databases
+## Backend Development
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
----
-
-## 🔌 APIs & Integration
-
-- RESTful APIs  
-- GraphQL  
-- Webhooks  
-- Third-party integrations  
-- AI service integration  
-- Payment integrations (M-Pesa systems & third-party gateways)
+* REST API development
+* JWT authentication
+* Backend architecture
+* API integrations
+* Workflow automation systems
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## Frontend & Mobile Development
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-- AWS  
-- GCP  
-- Cloudinary  
-- Render  
-- Vercel  
-- Safaricom Cloud Platform  
+* Responsive web applications
+* Mobile application development
+* UI optimization
+* Frontend performance improvements
 
 ---
 
-## 🔁 DevOps, CI/CD & Version Control
+## Databases & Storage
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=white)
 
-- CI/CD pipelines  
-- Containerized deployments  
-- Automated testing & deployment workflows  
-
----
-
-## 🤖 AI & Digital Growth
-
-- AI integrations for automation & intelligent workflows  
-- WhatsApp automation systems  
-- SEO optimization strategies  
-- Digital marketing systems & analytics  
+* Database design
+* Query optimization
+* Caching systems
+* Data management workflows
 
 ---
 
-# 🏗️ Notable Projects
+## Cloud & Infrastructure
 
-### 🤖 KAI BOT  
-AI-powered WhatsApp automation system enabling instant replies, sales automation, FAQ handling, and intelligent customer interaction.
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
-### 🛒 Bazelink  
-A full-scale ecommerce ecosystem with multi-portal architecture:
-- Sellers portal  
-- Buyers portal  
-- Admin dashboard  
-- Delivery & agent systems  
-Built and led development across the entire stack.
-
-### 🚚 Delivery Tracking System (Kenya)  
-Real-time delivery tracking infrastructure designed for local logistics operations.
-
-### 💳 Third-Party M-Pesa Payment Gateway  
-Custom payment gateway allowing businesses to send and receive payments through secure API integrations.
+* Cloud deployment
+* CI/CD workflows
+* Dockerized environments
+* Infrastructure management
 
 ---
 
-# 📊 GitHub Stats
+## AI & Automation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timothykinyi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+* Gemini AI integrations
+* Conversational AI systems
+* AI powered workflow automation
+* Business process automation
+* AI assisted customer interaction systems
+* WhatsApp automation systems
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=timothykinyi&theme=tokyonight&cache_seconds=1800" />
-</p>
+---
+
+# 🚀 Projects
+
+## 🛒 Bazelink
+
+Production ecommerce platform connecting buyers, sellers, delivery agents, and businesses within one ecosystem.
+
+Key areas worked on:
+
+* Backend and frontend development
+* Delivery and logistics workflows
+* Payment integration systems
+* Performance optimization through caching
+* System architecture and scaling
+* User experience improvements
+
+Platform supports over 2000 active users.
+
+---
+
+## 🤖 KAI BOT
+
+AI powered business automation system designed to help businesses automate sales, customer interaction, marketing workflows, and content generation.
+
+Features include:
+
+* AI sales assistant workflows
+* Automated customer interaction
+* AI powered content support
+* Payment and invoicing integration
+* Conversational business automation
+
+Built using Gemini AI integrations and custom backend workflows.
+
+---
+
+## 🚚 Shared Logistics System
+
+Logistics coordination platform focused on reducing delivery costs through grouped deliveries and optimized rider assignment.
+
+Main focus areas:
+
+* Delivery optimization workflows
+* Real time tracking architecture
+* Shop and rider coordination
+* Delivery cost sharing systems
+
+---
+
+## ⚙️ API Gateway Platform
+
+Backend infrastructure system used to manage multiple backend services and optimize server usage across applications.
+
+Features include:
+
+* API routing
+* Request management
+* Rate limiting
+* Server monitoring
+* Service optimization workflows
 
 ---
 
 # 📜 Certifications
 
-- AWS Certified Cloud Practitioner  
-- CCNA – Understanding Routers and Switches  
-- Ethical Hacking Essentials  
-- HCIA Datacom  
+* Certified Ethical Hacker (CEH)
+* AWS Certified Cloud Practitioner
+* HCIA Datacom
+* CCNA
+* Software Engineering Certification – ALX Africa
 
 ---
 
-# 📫 Let’s Connect
+# 🎓 Education
 
-📧 kinyi9461@gmail.com  
-📍 Nairobi, Kenya  
+Bachelor of Science in Information Technology
+The Cooperative University of Kenya
+
+# 📫 Contact
+
+📧 [kinyi9461@gmail.com](mailto:kinyi9461@gmail.com)
+📍 Nairobi, Kenya
+🔗 Portfolio: [https://timothykinyi.web.app](https://timothykinyi.web.app)
+💻 GitHub: [https://github.com/timothykinyi](https://github.com/timothykinyi)
